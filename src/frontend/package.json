@@ -60,7 +60,7 @@
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7",
     "uuid": "^9.0.0",
-    "vite-plugin-svgr": "^3.2.0",
+    "vite-plugin-svgr": "^5.2.0",
     "web-vitals": "^2.1.4",
     "zustand": "^4.4.7"
   },
@@ -105,7 +105,7 @@
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
     "@types/uuid": "^9.0.2",
-    "@vitejs/plugin-react-swc": "^3.3.2",
+    "@vitejs/plugin-react-swc": "^3.11.0",
     "autoprefixer": "^10.4.15",
     "daisyui": "^4.0.4",
     "eslint": "^8.57.0",
@@ -119,6 +119,6 @@
     "tailwindcss-dotted-background": "^1.1.0",
     "typescript": "^5.2.2",
     "ua-parser-js": "^1.0.37",
-    "vite": "^4.5.2"
+    "vite": "^8.3.8"
   }
 }
